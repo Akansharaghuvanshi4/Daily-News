@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Southwest Airlines executives to be grilled on Capitol Hill - KPRC 2 Click2Houston",
+            "description": "",
+            "url": "https://www.youtube.com/watch?v=jvQb8c3O1Bk",
+            "urlToImage": "https://i.ytimg.com/vi/jvQb8c3O1Bk/maxresdefault.jpg",
+            "publishedAt": "2023-02-09T12:06:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak",
+            "title": "Zelenskyy on European mission for aid, fighter jets; Russian forces close in on Bakhmut - CNBC",
+            "description": "The Ukrainian leader addressed the European Parliament in his second known overseas trip since Russia invaded his country in February last year.",
+            "url": "https://www.cnbc.com/2023/02/09/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107191651-1675926466998-gettyimages-1464147183-70909487.jpeg?v=1675937598&w=1920&h=1080",
+            "publishedAt": "2023-02-09T11:55:00Z",
+            "content": "This content was produced in Russia, where the law restricts coverage of Russian military operations in Ukraine.\r\nMOSCOW Russian consumer demand contracted at its fastest pace in seven years in 2022 … [+1141 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Australia to examine Chinese cameras, Defence Ministry says 'doing assessment of surveillance tech' - WION",
+            "description": "Australia will examine surveillance technology used in the offices of its defence department. Australian Defence Minister Richard Marles statement came amid ...",
+            "url": "https://www.youtube.com/watch?v=Wv9wHsepwaA",
+            "urlToImage": "https://i.ytimg.com/vi/Wv9wHsepwaA/maxresdefault.jpg",
+            "publishedAt": "2023-02-09T11:50:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lianne Kolirin",
+            "title": "Huge haul of cocaine floating at sea seized - CNN",
+            "description": "More than 3 tons of cocaine floating in the ocean have been seized by authorities in New Zealand in one of the country's single biggest drugs busts.",
+            "url": "https://www.cnn.com/2023/02/09/asia/new-zealand-cocaine-sea-scli-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230209035911-01-nz-drug-bust-020823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-09T11:17:00Z",
+            "content": "More than 3 tons of cocaine floating in the ocean have been seized by authorities in New Zealand in one of the countrys single biggest drugs busts.\r\nSome 81 bales of cocaine weighing3.2 metric tons (… [+2168 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Simone McCarthy, Nectar Gan, Wayne Chang",
+            "title": "China wants to dominate the 'near space' battlefield. Balloons are a key asset - CNN",
+            "description": "In China's eyes, the newest superpower battlefield sits between 12 and 60 miles above the Earth's surface in a thin-aired layer of the atmosphere it calls \"near space.\"",
+            "url": "https://www.cnn.com/2023/02/09/china/china-balloon-near-space-development-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230209114858-spy-baloon-020423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-09T10:45:00Z",
+            "content": "In Chinas eyes, the newest superpower battlefield sits between 12 and 60 miles above the Earths surface in a thin-aired layer of the atmosphere it calls near space.\r\nLying above the flightpaths of mo… [+8828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "World Helps Turkey And Syria In Rescue Operations After The Destruction By A Deadly Earthquake - CNN-News18",
+            "description": "World Helps Turkey And Syria In Rescue Operations After The Destruction By A Deadly EarthquakeParis, France - Countries around the world mobilized rapidly to...",
+            "url": "https://www.youtube.com/watch?v=Czz3L7aXs20",
+            "urlToImage": "https://i.ytimg.com/vi/Czz3L7aXs20/maxresdefault_live.jpg",
+            "publishedAt": "2023-02-09T10:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Catherine Thorbecke",
+            "title": "Google's AI chatbot Bard had an inaccurate response in public demo - CNN",
+            "description": "Google's much-hyped new AI chatbot tool Bard, which has yet to be released to the public, is already being called out for an inaccurate response it produced in a demo this week.",
+            "url": "https://www.cnn.com/2023/02/08/tech/google-ai-bard-demo-error/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230208122452-google-0131-restricted.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-09T09:29:00Z",
+            "content": "Googles much-hyped new AI chatbot tool Bard, which has yet to be released to the public, is already being called out for an inaccurate response it produced in a demo this week.\r\nIn the demo, which wa… [+3310 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brad Lendon",
+            "title": "Russia may have lost up to half of its operational tank fleet in Ukraine, monitoring group says - CNN",
+            "description": "Russia has potentially lost up to half of all its operational tank fleet since the start of the Ukraine war, according to information collected by a monitoring group, as its military struggles to meet the goals of Vladimir Putin's invasion.",
+            "url": "https://www.cnn.com/2023/02/09/europe/1000-russian-tanks-destroyed-ukraine-war-intl-hnk-ml/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230209132429-destroyed-russian-tank-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-09T09:26:00Z",
+            "content": "Russia has potentially lost up to half of all its operational tank fleet since the start of the Ukraine war, according to information collected by a monitoring group, as its military struggles to mee… [+3015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Mary Tuma",
+            "title": "Trump judge’s ruling could ban abortion pill across the US - The Guardian",
+            "description": "Far-right groups have asked to reverse the FDA’s approval of mifepristone, which has been on the market for decades",
+            "url": "https://www.theguardian.com/world/2023/feb/09/abortion-pill-trump-judge-possible-ban-mifepristone",
+            "urlToImage": "https://i.guim.co.uk/img/media/35a6d992dd47d61ab67acb866ede680c8842fafb/0_12_4891_2937/master/4891.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1ef5715506a0c4b07506d6e71cb171d",
+            "publishedAt": "2023-02-09T09:01:00Z",
+            "content": "A Texas judge could upend what remains of abortion access across the USas soon as this week if he agrees to a request by far-right groups to reverse federal approval of a key drug used in medication … [+9010 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Rebecca Falconer",
+            "title": "Kim Jong-un's daughter center stage as Pyongyang showcases largest-ever ICBM parade - Axios",
+            "description": "Analysts say it's a sign she's being groomed as his successor.",
+            "url": "https://www.axios.com/2023/02/09/north-korea-largest-missile-parade-kim-jong-un-daughter",
+            "urlToImage": "https://images.axios.com/IvkRYjXdSC2WISdzIjUnrVc68cw=/26x347:1414x1128/1366x768/2023/02/09/1675926868319.jpg",
+            "publishedAt": "2023-02-09T08:39:01Z",
+            "content": "North Korea's leader Kim Jong-un and his young daughter watched a parade of Pyongyang's largest nuclear missiles and newest military hardware in the capital on Wednesday night.\r\nWhy it matters: The p… [+1329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hoops Hype"
+            },
+            "author": "Yossi Gozlan",
+            "title": "D'Angelo Russell/Russell Westbrook trade: How it impacts Lakers, Wolves and Jazz - Hoops Hype",
+            "description": "The eve of the trade deadline featured one of the bigger names that many were anticipating to get dealt. Wednesday’s three-team trade saw the Lakers end the Russell Westbrook era by moving hi…",
+            "url": "https://hoopshype.com/lists/dangelo-russell-russell-westbrook-trade-how-it-impacts-lakers-wolves-and-jazz/",
+            "urlToImage": "https://hoopshype.com/wp-content/uploads/sites/92/2022/06/1240193608.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2023-02-09T08:29:02Z",
+            "content": "Jayne Kamin-Oncea-USA TODAY Sports\r\nWhen the Lakers traded Kentavious Caldwell-Pope, Kyle Kuzma, Montrezl Harrell, and a first-round pick for Westbrook, they left themselves vulnerable with a ton of … [+3076 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jackie Wattles",
+            "title": "This dwarf planet has a ring instead of a moon, and scientists don't know why - CNN",
+            "description": "Recent telescope data revealed that a small planet in the far reaches of our solar system has a dense ring round it, and scientists are baffled as to why.",
+            "url": "https://www.cnn.com/2023/02/08/world/dwarf-planet-rings-moon-mystery-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230207155340-dwarf-planet-rings-moon-mystery-quaoar.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-09T08:07:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nRecent telescope data revealed that a small planet in … [+3908 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Credit Suisse Clients Pull $120 Billion Amid Fifth Straight Loss - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=2609c5f1-a858-11ed-b540-644d53735241&url=L25ld3MvYXJ0aWNsZXMvMjAyMy0wMi0wOS9jcmVkaXQtc3Vpc3NlLWNsaWVudHMtcHVsbC0xMjAtYmlsbGlvbi1hbWlkLWZpZnRoLXN0cmFpZ2h0LWxvc3M=",
+            "urlToImage": null,
+            "publishedAt": "2023-02-09T08:02:52Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rachel Pannett, Kareem Fahim",
+            "title": "Turkey-Syria earthquakes death toll passes 15,000 - The Washington Post",
+            "description": "Frustration is growing over the speed of the disaster response in both countries. The United Nations is hoping to reopen its only aid corridor to Syria Thursday.",
+            "url": "https://www.washingtonpost.com/world/2023/02/09/turkey-syria-earthquake-death-count-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3IVKYRSB6UBEYCR2RIW6RVNM2Y.jpg&w=1440",
+            "publishedAt": "2023-02-09T07:30:28Z",
+            "content": "Comment on this story\r\nAnger and despair are mounting in Turkey as the death toll from a pair of major earthquakes in the country and neighboring Syria climbs above 15,000, with survivors and opposit… [+4260 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Adrian Wojnarowski",
+            "title": "Sources - Suns acquiring Kevin Durant in blockbuster deal with Nets - ESPN",
+            "description": "Phoenix is acquiring Brooklyn's Kevin Durant and T.J. Warren in exchange for Mikal Bridges, Cam Johnson, Jae Crowder, four first-round picks and a 2028 pick swap, sources told ESPN.",
+            "url": "https://www.espn.com/nba/story/_/id/35620592/phoenix-suns-acquiring-kevin-durant-blockbuster-deal-brooklyn-nets",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0712%2Fnba_durant%2Dphoenix_16x9.jpg",
+            "publishedAt": "2023-02-09T06:25:23Z",
+            "content": "After three-plus tumultuous years and a second trade request in eight months, All-NBA forward Kevin Durant was traded from the Brooklyn Nets to the Phoenix Suns for a package that includes dynamic fo… [+4881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Ken Martin",
+            "title": "Twitter outage leaves many users unable to tweet - Fox Business",
+            "description": "Twitter suffered an outage on Wednesday that prevented users from sending tweets or follow other users.",
+            "url": "https://www.foxbusiness.com/technology/twitter-outage-many-users-unable-tweet",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/03/0/0/Twitter-logo-A.jpg?ve=1&tl=1",
+            "publishedAt": "2023-02-09T05:32:35Z",
+            "content": "Twitter suffered an outage on Wednesday that prevented users from sending a tweet, following accounts or accessing their direct messages.\r\n\"Twitter may not be working as expected for some of you. Sor… [+1515 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Chetan Woodun",
+            "title": "C3.ai Stock: The True Beneficiary Of ChatGPT, Not Microsoft - Seeking Alpha",
+            "description": "The ChatGPT buzz and the billions of dollars it is investing in OpenAI certainly create opportunities for Microsoft. But see why C3.ai is the true beneficiary here.",
+            "url": "https://seekingalpha.com/article/4576634-c3ai-stock-true-beneficiary-of-chatgpt-not-microsoft",
+            "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1462188008/image_1462188008.jpg?io=getty-c-w1536",
+            "publishedAt": "2023-02-09T05:03:25Z",
+            "content": "Leon Neal\r\nWith its investment of $10 billion in OpenAI, Microsoft (NASDAQ:MSFT) seems to be opening pandora's box of possibilities with ChatGPT, which may even benefit its Bing search engine's effor… [+9856 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "Twitter Blue introduces 4,000 character tweets, says half ads coming soon - TechCrunch",
+            "description": "Twitter announced the ability to post longer tweets for paid users Wednesday. Paid subscribers can now post 4,000 characters long tweets.",
+            "url": "https://techcrunch.com/2023/02/08/twitter-blue-introduces-4000-character-tweets-says-half-ads-coming-soon/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/10/birds-talking-2.jpg?resize=1200,645",
+            "publishedAt": "2023-02-09T04:04:00Z",
+            "content": "Twitter announced the ability to post longer tweets for paid users Wednesday. So instead of being limited to 280 characters, Blue subscribers can post tweets that are up to 4,000 characters long. The… [+1791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Hogwarts Legacy: How to Open Arithmancy Puzzle Doors - IGN",
+            "description": "If you’ve explored Hogwarts, there’s a good chance you have encountered the large wooden puzzle doors that are surrounded by strange beast symbols and locked...",
+            "url": "https://www.youtube.com/watch?v=ySBImttv8hw",
+            "urlToImage": "https://i.ytimg.com/vi/ySBImttv8hw/maxresdefault.jpg",
+            "publishedAt": "2023-02-09T03:00:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dan Heching",
+            "title": "Elizabeth Banks knows risk of new movie 'Cocaine Bear' could come back and bite her - CNN",
+            "description": "With her bonkers new movie \"Cocaine Bear,\" Elizabeth Banks knew she wanted \"to make something muscular and masculine.\"",
+            "url": "https://www.cnn.com/2023/02/08/entertainment/elizabeth-banks-cocaine-bear/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230208140517-elizabeth-banks-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-09T02:52:00Z",
+            "content": "With her bonkers new movie Cocaine Bear, Elizabeth Banks knew she wanted to make something muscular and masculine.\r\nIn a new interview with Variety published on Wednesday, Banks who directed and copr… [+1184 chars]"
+        }
+    ]
+}
