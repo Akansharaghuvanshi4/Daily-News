@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Akansharaghuvanshi4/Daily-News.git/static/css/main.abd64e84.css",
+    "main.js": "/Akansharaghuvanshi4/Daily-News.git/static/js/main.2e773afa.js",
+    "static/js/787.a452d388.chunk.js": "/Akansharaghuvanshi4/Daily-News.git/static/js/787.a452d388.chunk.js",
+    "static/media/loading.gif": "/Akansharaghuvanshi4/Daily-News.git/static/media/loading.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/Akansharaghuvanshi4/Daily-News.git/index.html",
+    "main.abd64e84.css.map": "/Akansharaghuvanshi4/Daily-News.git/static/css/main.abd64e84.css.map",
+    "main.2e773afa.js.map": "/Akansharaghuvanshi4/Daily-News.git/static/js/main.2e773afa.js.map",
+    "787.a452d388.chunk.js.map": "/Akansharaghuvanshi4/Daily-News.git/static/js/787.a452d388.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.2e773afa.js"
+  ]
+}
